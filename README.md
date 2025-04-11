@@ -3,3 +3,6 @@
 
 # SpringBoot Initializer Pic
 ![image](https://github.com/user-attachments/assets/d1b450b2-e20b-4b70-a2f0-76a7e78a0edf)
+
+# Add dependency for database and JPA at file pom.xml
+![image](https://github.com/user-attachments/assets/c26f7c3f-940a-4131-b4a8-b79da821d30a)
