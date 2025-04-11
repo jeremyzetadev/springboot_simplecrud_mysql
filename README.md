@@ -6,3 +6,4 @@
 
 # Add dependency for database and JPA at file pom.xml
 ![image](https://github.com/user-attachments/assets/c26f7c3f-940a-4131-b4a8-b79da821d30a)
+Need to reload pom.xml by Maven->Project Refresh
