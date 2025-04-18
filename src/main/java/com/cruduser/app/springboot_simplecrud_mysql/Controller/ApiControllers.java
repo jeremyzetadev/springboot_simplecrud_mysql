@@ -50,4 +50,7 @@ public class ApiControllers {
         userService.delete(deleteUser);
         return "Deleted user with id: " + id;
     }
+
+    // for returning a response as json see actuator
+    // https://spring.io/guides/gs/actuator-service
 }
