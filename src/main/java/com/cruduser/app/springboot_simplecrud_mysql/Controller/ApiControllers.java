@@ -51,6 +51,19 @@ public class ApiControllers {
         return "Deleted user with id: " + id;
     }
 
-    // for returning a response as json see actuator
+    // [for returning a response as json see actuator]
     // https://spring.io/guides/gs/actuator-service
+
+    // [getting data from form submission]
+    // ※FRONTEND※
+    // <form action="/posting" method="post" id="form">
+    //   <input type ="text" name="someName"/>
+    //   <button type="submit" id="button2" >Submit2</button>
+    // </form>
+    // ※BACKEND※
+    // @PostMapping("/posting")
+    // public String po(@RequestParam("someName") String someName) {
+    //    return "hello" + someName;
+    // }
+
 }
