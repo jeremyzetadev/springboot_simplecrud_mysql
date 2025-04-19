@@ -55,6 +55,7 @@ public class ApiControllers {
     // https://spring.io/guides/gs/actuator-service
 
     // [getting data from form submission]
+    // https://stackoverflow.com/questions/73513133/how-to-send-basic-html-form-data-to-spring-boot-controller   -> can also use @RequestBody by JSON
     // ※FRONTEND※
     // <form action="/posting" method="post" id="form">
     //   <input type ="text" name="someName"/>
